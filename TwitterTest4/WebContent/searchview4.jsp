@@ -37,6 +37,12 @@ aut
 <title>Matched tweets</title>
 </head>
 <body>
+<div style="background-color:#00bfff">
+<br>
+<center><h1 style="color:ffffff">#HashTag</h1></center>
+<br>
+<br>
+</div>
 <%
 int count = 0;
 if(request.getAttribute("piList") != null){
